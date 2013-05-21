@@ -1,3 +1,3 @@
 $(document).ready(function(){
-	$("li:even").text("free trips!");
+	$("li:even>h2").text("Surprise location!");
 });
